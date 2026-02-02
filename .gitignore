@@ -1,2 +1,4 @@
 .env
 venv
+temp_audio
+__pycache__

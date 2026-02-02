@@ -1,8 +1,3 @@
-"""
-Скрипт для установки ffmpeg (если не установлен)
-Запустите: python install_ffmpeg.py
-"""
-
 import os
 import sys
 import zipfile
@@ -10,7 +5,6 @@ import requests
 from pathlib import Path
 
 def download_ffmpeg():
-    """Скачивание ffmpeg для Windows"""
     print("📥 Скачивание ffmpeg...")
 
     url = "https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip"
@@ -46,7 +40,6 @@ def download_ffmpeg():
         print(f"❌ Ошибка: {e}")
 
 def update_env_file(ffmpeg_path):
-    """Обновление .env файла с путем к ffmpeg"""
     env_path = ".env"
 
     lines = []

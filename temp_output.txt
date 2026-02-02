@@ -1,0 +1,11 @@
+﻿venv\Scripts\python.exe : D:\roman\repositories\portfolio\vstrechi_bot\venv\Lib\site-packages\urllib3\connectionpool.py:1097: InsecureRequestWarning: Unverifi
+ed HTTPS request is being made to host 'developers.sber.ru'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/lates
+t/advanced-usage.html#tls-warnings
+строка:1 знак:1
++ venv\Scripts\python.exe -c "
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (D:\roman\reposi...ml#tls-warnings:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  warnings.warn(
+Failed to retrieve documentation: 404
