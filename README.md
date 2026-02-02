@@ -44,6 +44,14 @@ python main.py
 
 ## Что получите на выходе
 
+<img width="728" height="776" alt="изображение" src="https://github.com/user-attachments/assets/cf42dce1-f944-4c30-8e10-9a4f1fc04cb2" />
+
+<img width="676" height="735" alt="изображение" src="https://github.com/user-attachments/assets/ad13a4a2-1938-4cbe-a2ea-5d3adb55d502" />
+
+<img width="712" height="815" alt="изображение" src="https://github.com/user-attachments/assets/fd41244d-0800-4422-94c2-4ab2b6119dfa" />
+
+*Естественно, если подключить посильнее модель, то результат будет сильно лучше.
+
 
 ## Технологии
 
